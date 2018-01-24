@@ -7,6 +7,7 @@ from New_Patterns_Dictionary import Activity_Pattern
 # adding a second comment
 #second test
 #[apoisdkap[oskda[poskdap]osdkaposkdap[oskd]]]
+#poaijsdopajwpoiajd
 ####################################################
 
 
