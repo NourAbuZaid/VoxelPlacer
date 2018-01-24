@@ -8,6 +8,7 @@ from New_Patterns_Dictionary import Activity_Pattern
 #second test
 #[apoisdkap[oskda[poskdap]osdkaposkdap[oskd]]]
 #poaijsdopajwpoiajd
+#try agian
 ####################################################
 
 
