@@ -7,7 +7,7 @@ from New_Patterns_Dictionary import Activity_Pattern
 # adding a second comment
 # second test
 
-# adding this comment to Nour-branch 
+# adding this comment to Nour-branch
 ####################################################
 
 
