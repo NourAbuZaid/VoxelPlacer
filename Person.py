@@ -7,6 +7,7 @@ from New_Patterns_Dictionary import Activity_Pattern
 # adding a second comment
 ####################################################
 #poaijsdpoaijsdpoaijsdoad
+#paoksdpoaksd
 
 class Person:
 
